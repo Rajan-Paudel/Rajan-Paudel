@@ -2,7 +2,7 @@
 - 👀 I’m interested in App and Web Development.
 - 🌱 I’m currently Flutter and machine learning.
 - 💞️ I’m looking to collaborate on React.js and native app developement.
-- 📫 You can contact of hire me on Fiverr
+- 📫 You can contact/hire me on Fiverr
 https://www.fiverr.com/rajanpaudel143
 
 <!---
